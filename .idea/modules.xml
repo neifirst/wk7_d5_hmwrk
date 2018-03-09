@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/GunsNBanjoes.iml" filepath="$PROJECT_DIR$/.idea/modules/GunsNBanjoes.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/GunsNBanjoes_main.iml" filepath="$PROJECT_DIR$/.idea/modules/GunsNBanjoes_main.iml" group="GunsNBanjoes" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/GunsNBanjoes_test.iml" filepath="$PROJECT_DIR$/.idea/modules/GunsNBanjoes_test.iml" group="GunsNBanjoes" />
+    </modules>
+  </component>
+</project>
